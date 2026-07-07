@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/git-soumy/LeetCodeProb/tree/master/0057-insert-interval) |
+| [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/git-soumy/LeetCodeProb/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
@@ -50,5 +51,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/0056-merge-intervals) |
+| [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/1288-remove-covered-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
