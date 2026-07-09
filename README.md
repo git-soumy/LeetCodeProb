@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/git-soumy/LeetCodeProb/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/git-soumy/LeetCodeProb/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/git-soumy/LeetCodeProb/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/git-soumy/LeetCodeProb/tree/master/0147-insertion-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/git-soumy/LeetCodeProb/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/git-soumy/LeetCodeProb/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/git-soumy/LeetCodeProb/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
