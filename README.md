@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
 | [1301-number-of-paths-with-max-score](https://github.com/git-soumy/LeetCodeProb/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/git-soumy/LeetCodeProb/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/git-soumy/LeetCodeProb/tree/master/0993-cousins-in-binary-tree) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/git-soumy/LeetCodeProb/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/git-soumy/LeetCodeProb/tree/master/0993-cousins-in-binary-tree) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
