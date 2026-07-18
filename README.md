@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/git-soumy/LeetCodeProb/tree/master/0752-open-the-lock) |
 | [0905-sort-array-by-parity](https://github.com/git-soumy/LeetCodeProb/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/git-soumy/LeetCodeProb/tree/master/1301-number-of-paths-with-max-score) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/git-soumy/LeetCodeProb/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/git-soumy/LeetCodeProb/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/1288-remove-covered-intervals) |
 ## Divide and Conquer
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/git-soumy/LeetCodeProb/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/git-soumy/LeetCodeProb/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/git-soumy/LeetCodeProb/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
