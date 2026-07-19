@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/git-soumy/LeetCodeProb/tree/master/0057-insert-interval) |
+| [0189-rotate-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0752-open-the-lock](https://github.com/git-soumy/LeetCodeProb/tree/master/0752-open-the-lock) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0189-rotate-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/git-soumy/LeetCodeProb/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/git-soumy/LeetCodeProb/tree/master/2108-find-first-palindromic-string-in-the-array) |
