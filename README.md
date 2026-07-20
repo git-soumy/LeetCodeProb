@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/git-soumy/LeetCodeProb/tree/master/1301-number-of-paths-with-max-score) |
+| [1652-defuse-the-bomb](https://github.com/git-soumy/LeetCodeProb/tree/master/1652-defuse-the-bomb) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/git-soumy/LeetCodeProb/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/git-soumy/LeetCodeProb/tree/master/2367-number-of-arithmetic-triplets) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/git-soumy/LeetCodeProb/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/git-soumy/LeetCodeProb/tree/master/2367-number-of-arithmetic-triplets) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/git-soumy/LeetCodeProb/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
