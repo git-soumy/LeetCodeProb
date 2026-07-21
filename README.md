@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/git-soumy/LeetCodeProb/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0752-open-the-lock](https://github.com/git-soumy/LeetCodeProb/tree/master/0752-open-the-lock) |
 | [2367-number-of-arithmetic-triplets](https://github.com/git-soumy/LeetCodeProb/tree/master/2367-number-of-arithmetic-triplets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/git-soumy/LeetCodeProb/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/git-soumy/LeetCodeProb/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/git-soumy/LeetCodeProb/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/git-soumy/LeetCodeProb/tree/master/0389-find-the-difference) |
 | [0752-open-the-lock](https://github.com/git-soumy/LeetCodeProb/tree/master/0752-open-the-lock) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/git-soumy/LeetCodeProb/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/git-soumy/LeetCodeProb/tree/master/1652-defuse-the-bomb) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/git-soumy/LeetCodeProb/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
