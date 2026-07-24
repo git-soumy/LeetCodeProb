@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/git-soumy/LeetCodeProb/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/git-soumy/LeetCodeProb/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/git-soumy/LeetCodeProb/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/git-soumy/LeetCodeProb/tree/master/1301-number-of-paths-with-max-score) |
 ## Tree
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/git-soumy/LeetCodeProb/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/git-soumy/LeetCodeProb/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0442-find-all-duplicates-in-an-array) |
