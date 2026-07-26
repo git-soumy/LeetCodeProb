@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/git-soumy/LeetCodeProb/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/git-soumy/LeetCodeProb/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
