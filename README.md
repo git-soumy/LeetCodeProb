@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/git-soumy/LeetCodeProb/tree/master/0752-open-the-lock) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/git-soumy/LeetCodeProb/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3794-reverse-string-prefix](https://github.com/git-soumy/LeetCodeProb/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/git-soumy/LeetCodeProb/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/git-soumy/LeetCodeProb/tree/master/2367-number-of-arithmetic-triplets) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/git-soumy/LeetCodeProb/tree/master/3794-reverse-string-prefix) |
 ## Enumeration
 |  |
 | ------- |
