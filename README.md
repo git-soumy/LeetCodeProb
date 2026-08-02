@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0752-open-the-lock](https://github.com/git-soumy/LeetCodeProb/tree/master/0752-open-the-lock) |
+| [0877-stone-game](https://github.com/git-soumy/LeetCodeProb/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/git-soumy/LeetCodeProb/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0922-sort-array-by-parity-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
+| [0877-stone-game](https://github.com/git-soumy/LeetCodeProb/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/git-soumy/LeetCodeProb/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/git-soumy/LeetCodeProb/tree/master/0877-stone-game) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/git-soumy/LeetCodeProb/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/git-soumy/LeetCodeProb/tree/master/0178-rank-scores) |
 | [0197-rising-temperature](https://github.com/git-soumy/LeetCodeProb/tree/master/0197-rising-temperature) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/git-soumy/LeetCodeProb/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
