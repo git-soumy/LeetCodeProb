@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/git-soumy/LeetCodeProb/tree/master/1288-remove-covered-intervals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/git-soumy/LeetCodeProb/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/git-soumy/LeetCodeProb/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/git-soumy/LeetCodeProb/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/git-soumy/LeetCodeProb/tree/master/0877-stone-game) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/git-soumy/LeetCodeProb/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -227,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/git-soumy/LeetCodeProb/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/git-soumy/LeetCodeProb/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/git-soumy/LeetCodeProb/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
