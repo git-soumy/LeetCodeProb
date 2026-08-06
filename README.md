@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/git-soumy/LeetCodeProb/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/git-soumy/LeetCodeProb/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/git-soumy/LeetCodeProb/tree/master/0912-sort-an-array) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/git-soumy/LeetCodeProb/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/git-soumy/LeetCodeProb/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/git-soumy/LeetCodeProb/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0752-open-the-lock](https://github.com/git-soumy/LeetCodeProb/tree/master/0752-open-the-lock) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/git-soumy/LeetCodeProb/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/git-soumy/LeetCodeProb/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/git-soumy/LeetCodeProb/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/git-soumy/LeetCodeProb/tree/master/3794-reverse-string-prefix) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/git-soumy/LeetCodeProb/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/git-soumy/LeetCodeProb/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
